@@ -1,4 +1,4 @@
-package com.capgemini.pocaspectlogger.api.rest.dto.in;
+package com.capgemini.pocswagger.api.rest.dto.in;
 
 import lombok.Data;
 
